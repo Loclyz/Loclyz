@@ -1,6 +1,6 @@
-### Hi there 👋__
-Currently improving my javascript, python and more...__
-Currently working on multiple websites as a way of learning/improving__
+### Hi there 👋  
+Currently improving my javascript, python and more...  
+Currently working on multiple websites as a way of learning/improving  
 
 <!--
 **Loclyz/Loclyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
